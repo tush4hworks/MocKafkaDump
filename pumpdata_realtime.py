@@ -44,9 +44,7 @@ class record:
 
 	def runCommand(self,command):
 		try:
-			pass
-			#print command
-			#s,o=commands.getstatusoutput(command)
+			s,o=commands.getstatusoutput(command)
 		except Exception:
 			pass
 

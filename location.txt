@@ -1,0 +1,249 @@
+ NULL,Italy,IT, NULL, NULL, NULL
+ NULL,Japan,JP, NULL, NULL, NULL
+ NULL,United States,US, NULL, NULL, NULL
+ NULL,Republic of Korea,KR, NULL, NULL, NULL
+ NULL,Brazil,BR, NULL, NULL, NULL
+ NULL,Russia,RU, NULL, NULL, NULL
+ NULL,Germany,DE, NULL, NULL, NULL
+ NULL,United Kingdom,GB, NULL, NULL, NULL
+ NULL,France,FR, NULL, NULL, NULL
+ NULL,Taiwan,TW, NULL, NULL, NULL
+ NULL,Spain,ES, NULL, NULL, NULL
+Tokyo,Japan,JP, NULL,Tōkyō,13
+Central District,Hong Kong,HK, NULL, NULL, NULL
+ NULL,Philippines,PH, NULL, NULL, NULL
+ NULL,India,IN, NULL, NULL, NULL
+ NULL,Poland,PL, NULL, NULL, NULL
+Taipei,Taiwan,TW, NULL,Taipei, NULL
+Moscow,Russia,RU, NULL,Moscow,MOW
+ NULL,Israel,IL, NULL, NULL, NULL
+ NULL,Mexico,MX, NULL, NULL, NULL
+ NULL,Argentina,AR, NULL, NULL, NULL
+ NULL,Colombia,CO, NULL, NULL, NULL
+ NULL,Canada,CA, NULL, NULL, NULL
+ NULL,Ukraine,UA, NULL, NULL, NULL
+ NULL,Netherlands,NL, NULL, NULL, NULL
+ NULL,Chile,CL, NULL, NULL, NULL
+London,United Kingdom,GB, NULL,England,ENG
+ NULL,Turkey,TR, NULL, NULL, NULL
+Seoul,Republic of Korea,KR, NULL,Seoul,11
+ NULL,Australia,AU, NULL, NULL, NULL
+ NULL,Finland,FI, NULL, NULL, NULL
+ NULL,Greece,GR, NULL, NULL, NULL
+Milan,Italy,IT, NULL,Milan,MI
+ NULL,Iran,IR, NULL, NULL, NULL
+Walnut Creek,United States,US,807,California,CA
+Bangalore,India,IN, NULL,Karnataka,KA
+Hanoi,Vietnam,VN, NULL,Thanh Pho Ha Noi,64
+Belgrade,Serbia,RS, NULL,Central Serbia, NULL
+Hudsonville,United States,US,563,Michigan,MI
+ NULL,Croatia,HR, NULL, NULL, NULL
+Toronto,Canada,CA, NULL,Ontario,ON
+Bogotá,Colombia,CO, NULL,Bogota D.C.,DC
+Wolfen,Germany,DE, NULL,Saxony-Anhalt,ST
+Mumbai,India,IN, NULL,Maharashtra,MH
+Santiago,Chile,CL, NULL,Santiago Metropolitan,RM
+Medellín,Colombia,CO, NULL,Antioquia,ANT
+ NULL,Hong Kong,HK, NULL, NULL, NULL
+New York,United States,US,501,New York,NY
+Paris,France,FR, NULL,Paris,75
+Gif-sur-Yvette,France,FR, NULL,Essonne,91
+Montevideo,Uruguay,UY, NULL,Departamento de Montevideo,MO
+ NULL,Peru,PE, NULL, NULL, NULL
+Saint Petersburg,Russia,RU, NULL,St.-Petersburg,SPE
+Madrid,Spain,ES, NULL,Madrid,M
+Warsaw,Poland,PL, NULL,Masovian Voivodeship,MZ
+Brooklyn,United States,US,501,New York,NY
+Buenos Aires,Argentina,AR, NULL,Buenos Aires F.D.,C
+ NULL,Belgium,BE, NULL, NULL, NULL
+Mérida,Mexico,MX, NULL,Yucatán,YUC
+ NULL,Indonesia,ID, NULL, NULL, NULL
+Roxas City,Philippines,PH, NULL,Province of Capiz,CAP
+Singapore,Singapore,SG, NULL, NULL, NULL
+ NULL,Czech Republic,CZ, NULL, NULL, NULL
+ NULL,United Arab Emirates,AE, NULL, NULL, NULL
+Vancouver,Canada,CA, NULL,British Columbia,BC
+New London,United States,US,533,Connecticut,CT
+ NULL,Sweden,SE, NULL, NULL, NULL
+ NULL,Venezuela,VE, NULL, NULL, NULL
+Southampton,United Kingdom,GB, NULL,Southampton,STH
+ NULL,Bulgaria,BG, NULL, NULL, NULL
+ NULL,Hungary,HU, NULL, NULL, NULL
+Rio de Janeiro,Brazil,BR, NULL,Rio de Janeiro,RJ
+Rome,Italy,IT, NULL,Rome,RM
+Kuwait City,Kuwait,KW, NULL,Al Asimah,KU
+ NULL,Saudi Arabia,SA, NULL, NULL, NULL
+Diliman Primero,Philippines,PH, NULL,Province of Bulacan,BUL
+Saleilles,France,FR, NULL,Pyrénées-Orientales,66
+Targu Gangulesti,Romania,RO, NULL, NULL, NULL
+Ketsch,Germany,DE, NULL,Baden-Württemberg Region,BW
+ NULL,Austria,AT, NULL, NULL, NULL
+Mogilev,Belarus,BY, NULL,Mogilev,MA
+Montreal,Canada,CA, NULL,Quebec,QC
+ NULL,Portugal,PT, NULL, NULL, NULL
+Naples,Italy,IT, NULL,Naples,NA
+Clifton,United States,US,501,New Jersey,NJ
+Ottawa,Canada,CA, NULL,Ontario,ON
+Bangkok,Thailand,TH, NULL,Bangkok,10
+ NULL,Bangladesh,BD, NULL, NULL, NULL
+ NULL,Serbia,RS, NULL, NULL, NULL
+Barcelona,Spain,ES, NULL,Barcelona,B
+San Mateo,United States,US,807,California,CA
+Scarborough,Canada,CA, NULL,Ontario,ON
+Illzach,France,FR, NULL,Haut-Rhin,68
+Islamabad,Pakistan,PK, NULL,Islamabad Capital Territory,IS
+Istanbul,Turkey,TR, NULL,Istanbul,34
+Altopascio,Italy,IT, NULL,Provincia di Lucca,LU
+ NULL,New Zealand,NZ, NULL, NULL, NULL
+Chennai,India,IN, NULL,Tamil Nadu,TN
+New Delhi,India,IN, NULL,National Capital Territory of Delhi,DL
+Perth,Australia,AU, NULL,Western Australia,WA
+Pavia,Italy,IT, NULL,Provincia di Pavia,PV
+ NULL,Ireland,IE, NULL, NULL, NULL
+ NULL,Thailand,TH, NULL, NULL, NULL
+Jakarta,Indonesia,ID, NULL,Daerah Khusus Ibukota Jakarta,JK
+São Paulo,Brazil,BR, NULL,Sao Paulo,SP
+Herndon,United States,US,511,Virginia,VA
+ NULL,Malaysia,MY, NULL, NULL, NULL
+Kursk,Russia,RU, NULL,Kurskaya Oblast',KRS
+George Town,Malaysia,MY, NULL,Penang,7
+Almaty,Kazakhstan,KZ, NULL,Almaty Qalasy,ALA
+Roanoke,United States,US,573,Virginia,VA
+Asunción,Paraguay,PY, NULL,Asuncion,ASU
+Cuauhtemoc,Mexico,MX, NULL,Chihuahua,CHH
+Vinnytsya,Ukraine,UA, NULL,Vinnyts'ka Oblast',5
+Santo Domingo,Dominican Republic,DO, NULL,Nacional,1
+ NULL,Switzerland,CH, NULL, NULL, NULL
+Sydney,Australia,AU, NULL,New South Wales,NSW
+Budapest,Hungary,HU, NULL,Budapest fovaros,BU
+Bratislava,Slovak Republic,SK, NULL,Bratislavsky kraj,BL
+Kiev,Ukraine,UA, NULL,Kyiv City,30
+Zurich,Switzerland,CH, NULL,Zurich,ZH
+Leicester,United Kingdom,GB, NULL,Leicester,LCE
+ NULL,Morocco,MA, NULL, NULL, NULL
+ NULL,Slovak Republic,SK, NULL, NULL, NULL
+Calgary,Canada,CA, NULL,Alberta,AB
+ NULL,Norway,NO, NULL, NULL, NULL
+Boulder,United States,US,751,Colorado,CO
+ NULL,Egypt,EG, NULL, NULL, NULL
+Amsterdam,Netherlands,NL, NULL,North Holland,NH
+Vienna,Austria,AT, NULL,Vienna,9
+Chicago,United States,US,602,Illinois,IL
+Chelyabinsk,Russia,RU, NULL,Chelyabinsk,CHE
+Christchurch,New Zealand,NZ, NULL,Canterbury,CAN
+ NULL,Australia,AU, NULL,Queensland,QLD
+Rubí,Spain,ES, NULL,Barcelona,B
+ NULL,Romania,RO, NULL, NULL, NULL
+Ceska,Czech Republic,CZ, NULL,South Moravian,JM
+Omsk,Russia,RU, NULL,Omskaya Oblast',OMS
+Baltimore,United States,US,512,Maryland,MD
+Guangzhou,China,CN, NULL,Guangdong,44
+Washington,United States,US,511,District of Columbia,DC
+Mississauga,Canada,CA, NULL,Ontario,ON
+Quezon City,Philippines,PH, NULL,National Capital Region,0
+Toere,Sweden,SE, NULL,Norrbotten,BD
+ NULL,Georgia,GE, NULL, NULL, NULL
+San José,Costa Rica,CR, NULL,Provincia de San Jose,SJ
+Newmarket,Canada,CA, NULL,Ontario,ON
+ NULL,Kazakhstan,KZ, NULL, NULL, NULL
+Waukegan,United States,US,602,Illinois,IL
+Berlin,Germany,DE, NULL,Land Berlin,BE
+Bologna,Italy,IT, NULL,Provincia di Bologna,BO
+Mineola,United States,US,709,Texas,TX
+Fort Lauderdale,United States,US,528,Florida,FL
+Durban,South Africa,ZA, NULL,KwaZulu-Natal,ZN
+The Bronx,United States,US,501,New York,NY
+McKinney,United States,US,623,Texas,TX
+Marseille,France,FR, NULL,Bouches-du-Rhône,13
+Rostov-on-Don,Russia,RU, NULL,Rostov,ROS
+Zola Predosa,Italy,IT, NULL,Provincia di Bologna,BO
+Los Angeles,United States,US,803,California,CA
+Shanghai,China,CN, NULL,Shanghai Shi,31
+Mariupol,Ukraine,UA, NULL,Donets'ka Oblast',14
+Tver,Russia,RU, NULL,Tverskaya Oblast',TVE
+Thrissur,India,IN, NULL,Kerala,KL
+Cocal,Brazil,BR, NULL,Piaui,PI
+ NULL,Costa Rica,CR, NULL, NULL, NULL
+Tel Aviv,Israel,IL, NULL,Tel Aviv,TA
+ NULL,Iraq,IQ, NULL, NULL, NULL
+Delhi,India,IN, NULL,National Capital Territory of Delhi,DL
+Dresden,Germany,DE, NULL,Saxony,SN
+Simferopol,Ukraine,UA, NULL,Crimea,43
+Evansville,United States,US,649,Indiana,IN
+Cleveland,United States,US,510,Ohio,OH
+Wynnum,Australia,AU, NULL,Queensland,QLD
+Harare,Zimbabwe,ZW, NULL,Harare,HA
+Bolton,United Kingdom,GB, NULL,Bolton,BOL
+Yavne,Israel,IL, NULL,Central District,M
+Melbourne,Australia,AU, NULL,Victoria,VIC
+Crawley,United Kingdom,GB, NULL,West Sussex,WSX
+Bucharest,Romania,RO, NULL,Bucuresti,B
+Buenaventura,Colombia,CO, NULL,Departamento del Valle del Cauca,VAC
+La Paz,Bolivia,BO, NULL,Departamento de La Paz,L
+Birmingham,United Kingdom,GB, NULL,Birmingham,BIR
+Warzachewka Polska,Poland,PL, NULL,Kujawsko-Pomorskie,KP
+Albuquerque,United States,US,790,New Mexico,NM
+Bentivoglio,Italy,IT, NULL,Provincia di Bologna,BO
+Mileto,Italy,IT, NULL,Province of Vibo Valentia,VV
+Sittingbourne,United Kingdom,GB, NULL,Kent,KEN
+Tewkesbury,United Kingdom,GB, NULL,Gloucestershire,GLS
+Novara,Italy,IT, NULL,Provincia di Novara,NO
+Challans,France,FR, NULL,Vendée,85
+Munich,Germany,DE, NULL,Bavaria,BY
+ NULL,Angola,AO, NULL, NULL, NULL
+Guayaquil,Ecuador,EC, NULL,Provincia del Guayas,G
+Genoa,Italy,IT, NULL,Provincia di Genova,GE
+Toyohashi,Japan,JP, NULL,Aichi,23
+Prague,Czech Republic,CZ, NULL,Hlavni mesto Praha,PR
+Kansas City,United States,US,616,Missouri,MO
+ NULL,Denmark,DK, NULL, NULL, NULL
+Veliky Novgorod,Russia,RU, NULL,Novgorodskaya Oblast',NGR
+Udine,Italy,IT, NULL,Provincia di Udine,UD
+Glasgow,United Kingdom,GB, NULL,Glasgow City,GLG
+Halifax,United Kingdom,GB, NULL,Calderdale,CLD
+Riyadh,Saudi Arabia,SA, NULL,Ar Riyāḑ,1
+San Salvador,El Salvador,SV, NULL,Departamento de San Salvador,SS
+Fort Worth,United States,US,623,Texas,TX
+Philadelphia,United States,US,504,Pennsylvania,PA
+Bellingham,United States,US,819,Washington,WA
+Canicattì,Italy,IT, NULL,Province of Agrigento,AG
+Dhanbad,India,IN, NULL,State of Jharkhand,JH
+Shahrak-e Pars,Iran,IR, NULL,Ostan-e Tehran,7
+Oslo,Norway,NO, NULL,Oslo County,3
+Seattle,United States,US,819,Washington,WA
+Castres,France,FR, NULL,Tarn,81
+Flintbek,Germany,DE, NULL,Schleswig-Holstein,SH
+ NULL,Macao,MO, NULL, NULL, NULL
+Houston,United States,US,618,Texas,TX
+Lima,Peru,PE, NULL,Provincia de Lima,LMA
+Warrington,United Kingdom,GB, NULL,Warrington,WRT
+St Louis,United States,US,609,Missouri,MO
+Brisbane,Australia,AU, NULL,Queensland,QLD
+Belo Horizonte,Brazil,BR, NULL,Minas Gerais,MG
+Alexandria,United States,US,511,Virginia,VA
+Kolkata,India,IN, NULL,West Bengal,WB
+Liège,Belgium,BE, NULL,Liège Province,WLG
+Bucaramanga,Colombia,CO, NULL,Departamento de Santander,SAN
+Lincoln,United States,US,722,Nebraska,NE
+Machilipatnam,India,IN, NULL,Andhra Pradesh,AP
+Zenica,Bosnia and Herzegovina,BA, NULL,Federation of Bosnia and Herzegovina,BIH
+Leesburg,United States,US,525,Georgia,GA
+Krasnodar,Russia,RU, NULL,Krasnodarskiy Kray,KDA
+Adelaide,Australia,AU, NULL,South Australia,SA
+Brighton,United Kingdom,GB, NULL,Brighton and Hove,BNH
+La Victoria,Venezuela,VE, NULL,Aragua,D
+Les Ormes,France,FR, NULL,Yonne,89
+Loreto,Italy,IT, NULL,Provincia di Ancona,AN
+Kirrawee,Australia,AU, NULL,New South Wales,NSW
+Karagandy,Kazakhstan,KZ, NULL,Qaraghandy Oblysy,KAR
+Levallois-Perret,France,FR, NULL,Hauts-de-Seine,92
+Bydgoszcz,Poland,PL, NULL,Kujawsko-Pomorskie,KP
+Ahmedabad,India,IN, NULL,Gujarat,GJ
+Alcorcón,Spain,ES, NULL,Madrid,M
+Lyon,France,FR, NULL,Rhône,69
+Lidingoe,Sweden,SE, NULL,Stockholm,AB
+Lund,Sweden,SE, NULL,Skåne,M
+Kofu,Japan,JP, NULL,Yamanashi,19
+Ōita,Japan,JP, NULL,Ōita,44
+Yekaterinburg,Russia,RU, NULL,Sverdlovskaya Oblast',SVE
+Makati City,Philippines,PH, NULL,National Capital Region,0

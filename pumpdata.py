@@ -44,14 +44,20 @@ class record:
 		self.index=0
 		self.kafkaString="echo '{}' | /usr/hdp/current/kafka-broker/bin/kafka-console-producer.sh --broker-list c01s02.hadoop.local:6667 --topic wikipedia1"
 
+	def runCommand(self,command):
+		try:
+			s,o=commands.getstatusoutput(command)
+		except Exception:
+			pass
+
 	def getRecord(self):
 		while True:
 			deltasecs=random.choice(range(1))
 			time.sleep(deltasecs)
 			try:
-				print self.kafkaString.format(json.dumps(json.loads(self.basedata.next())))
+				self.runCommand(self.kafkaString.format(json.dumps(json.loads(self.basedata.next()))))
 			except StopIteration:
-				print self.kafkaString.format(json.dumps(self.buildRecord(deltasecs)))
+				self.runCommand(self.kafkaString.format(json.dumps(self.buildRecord(deltasecs))))
 			except Exception:
 				pass
 		

@@ -1,0 +1,78 @@
+{
+  "wrap": {
+    "topicName": "wiki1",
+    "runSetup": "true",
+    "clickers": 10,
+    "max_wait_per_clicker": 3000,
+    "ingestionSpec": {
+      "type": "kafka",
+      "dataSchema": {
+        "dataSource": "demo_kafka_superset",
+        "parser": {
+          "type": "string",
+          "parseSpec": {
+            "format": "json",
+            "timestampSpec": {
+              "column": "time",
+              "format": "auto"
+            },
+            "dimensionsSpec": {
+              "dimensions": [
+                "channel",
+                "cityName",
+                "comment",
+                "countryIsoCode",
+                "countryName",
+                "isAnonymous",
+                "isMinor",
+                "isNew",
+                "isRobot",
+                "isUnpatrolled",
+                "metroCode",
+                "namespace",
+                "page",
+                "regionIsoCode",
+                "regionName",
+                "user",
+                {
+                  "name": "added",
+                  "type": "long"
+                },
+                {
+                  "name": "deleted",
+                  "type": "long"
+                },
+                {
+                  "name": "delta",
+                  "type": "long"
+                }
+              ]
+            }
+          }
+        },
+        "metricsSpec": [],
+        "granularitySpec": {
+          "type": "uniform",
+          "segmentGranularity": "fifteen_minute",
+          "queryGranularity": "NONE",
+          "rollup": false
+        }
+      },
+      "tuningConfig": {
+        "type": "kafka",
+        "offsetFetchPeriod": "PT10S",
+        "reportParseExceptions": false
+      },
+      "ioConfig": {
+        "topic": "wiki1",
+        "replicas": 1,
+        "taskDuration": "PT15M",
+        "completionTimeout": "PT25M",
+        "consumerProperties": {
+          "bootstrap.servers": "c01s02.hadoop.local:6667"
+        }
+      }
+    },
+    "supervisor_address": "http://localhost:8090"
+  }
+}
